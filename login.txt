@@ -1,1 +1,7 @@
+označení konfliktů - head změna lokální, druhé změna z merge (pull z gitlabu)
+
+<<<<<<< HEAD
 tohle je změna z lokálu
+=======
+změna v gitu
+>>>>>>> c4981c0e1ea22474bfc95f2aeef8d97c63997356
