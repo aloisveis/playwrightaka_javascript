@@ -1,6 +1,6 @@
 const firstName = ["Jan", "Jiří", "Petr", "Pavel"];
 const lastName = ["Nový", "Novák", "Novotný", "Novsa"];
 
-firstName.forEach((name) => {
-  console.log(firstName[name]);
+firstName.forEach((name, index) => {
+  console.log(`${name} ${lastName[index]}`);
 });
